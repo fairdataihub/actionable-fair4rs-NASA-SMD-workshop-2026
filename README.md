@@ -31,7 +31,7 @@ We list here major resources relevant to our talk.
 | NASA SMD Mission Software Workshop 2026 event page          | https://science.data.nasa.gov/features-events/mission-software-workshop-2026 |
 | Actionable FAIR4RS Task Force (ReSA)                         | https://www.researchsoft.org/tf-actionable-fair4rs |
 | FAIR4RS Principles for Research Software (FAIR4RS Principles)   | https://doi.org/10.1038/s41597-022-01710-x |
-| Draft Actionable FAIR4RS guidelines for feedback   | [Add link] |
+| Draft Actionable FAIR4RS guidelines for feedback   | Google Doc [here](https://docs.google.com/document/d/1XLlkxQ0jp3QL2MZQ6sMfpE3rYbP_6-UiwTe0DmPYJVM/edit?usp=sharing) |
 
 ## License
 
