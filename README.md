@@ -20,7 +20,7 @@ This repository contains the material and information associated with our talk a
 
 ## Meeting material
 
-- `2026-09-ActionableFAIR4RS-NASA-SMD-Workshop.pdf`: Slides of our talk.
+- [`2026-09-ActionableFAIR4RS-NASA-SMD-Workshop.pdf`](2026-09-ActionableFAIR4RS-NASA-SMD-Workshop.pdf): Slides of our talk.
 
 ## Resources
 
